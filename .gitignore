@@ -1,0 +1,9 @@
+# Ignorar el entorno virtual
+.venv/
+
+# Ignorar archivos generados por Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Ignorar archivos específicos del sistema operativo
+.DS_Store
